@@ -9,7 +9,7 @@ setup(
     name="rubik3_matrix",
     version="0.0.1",
     author="Hanspeter Schinz",
-    author_email="Hanspeter Schinz@gmx.ch",
+    author_email="hanspeter.schinz@gmx.ch",
     description="A package to find solutions for a 3x3x3 rubiks cube",
     long_description=readme,
     long_description_content_type="text/markdown",
